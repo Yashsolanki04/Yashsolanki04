@@ -13,8 +13,6 @@ I'm a passionate software engineer specializing in Python, and I love solving co
 Here are some technologies I work with:
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)]()
-[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)]()
-[![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)]()
 [![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)]()
 
 ### 🌱 Current Learning:
