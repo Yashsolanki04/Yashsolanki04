@@ -12,8 +12,8 @@ I'm a passionate software engineer specializing in Python, and I love solving co
 ### 🛠️ Languages and Tools
 Here are some technologies I work with:
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)]()
 [![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)]()
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)]()
 
 ### 🌱 Current Learning:
 - Working on mastering [new technology].
